@@ -51,9 +51,6 @@
   <a href="https://www.instagram.com/ahmed_mohamedx777/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="150" height="50" alt="instagram logo"  />
   </a>
-  <a href="ahmedsaidx12@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="150" height="50" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ahmed-said-1003a3339/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="150" height="50" alt="linkedin logo"  />
   </a>
