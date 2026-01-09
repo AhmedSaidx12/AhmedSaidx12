@@ -10,7 +10,7 @@
 
 <h1 align="center">Front-End Developer</h1>
 
-###
+
 
 <h2 align="left">My Skills</h2>
 
